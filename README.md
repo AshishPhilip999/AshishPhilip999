@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @AshishPhilip999
-- 👀 I’m interested in ...Game Development
+- 👀 I’m interested in ...Software Engineering
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ...https://www.linkedin.com/in/ashish-philip-a97a71234
 
 <!---
 AshishPhilip999/AshishPhilip999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
